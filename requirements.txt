@@ -1,0 +1,61 @@
+# Web scraping
+requests
+beautifulsoup4
+lxml
+selenium
+httpx
+parsel
+
+# AI / LLM
+openai
+transformers
+torch
+sentence-transformers
+
+# Data processing / Science
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# FFmpeg integration
+ffmpeg-python
+
+# Text extraction
+tika
+textract
+pytesseract
+pdfplumber
+
+# Microsoft Word document
+python-docx
+
+# Excel document
+openpyxl
+xlrd
+xlwt
+xlutils
+
+# PDF document
+PyPDF2
+pdfminer.six
+pypdf
+
+# OCR (for images)
+pillow
+
+# Utilities
+python-dotenv
+loguru
+jupyter
+
+# Extra: For working with JSON, YAML, etc.
+pyyaml
+ujson
